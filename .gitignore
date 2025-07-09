@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Env
+.env
+
+# Notebooks
+
+# Streamlit state
+.streamlit/
