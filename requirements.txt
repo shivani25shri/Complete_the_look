@@ -1,0 +1,7 @@
+streamlit
+google-genai
+pymongo[srv]
+pillow
+requests
+transformers
+torch  
